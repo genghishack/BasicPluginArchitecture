@@ -1,0 +1,9 @@
+export const SET_ERROR = "SET_ERROR";
+
+export const SET_CURRENT_ENTITY = "SET_CURRENT_ENTITY";
+export const SET_MENU_TREE_VISIBLE = "SET_MENU_TREE_VISIBLE";
+
+export const SET_RESOURCES = "SET_RESOURCES";
+export const SET_CATEGORIES = "SET_CATEGORIES";
+export const SET_STATES = "SET_STATES";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
