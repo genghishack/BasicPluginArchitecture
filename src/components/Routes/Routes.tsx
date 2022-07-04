@@ -7,13 +7,12 @@ import About from "../About";
 import AuthContainer from "../../containers/AuthContainer";
 import ProfileContainer from "../../containers/ProfileContainer";
 import AdminContainer from '../../containers/AdminContainer';
-import ResourceContainer from '../../containers/ResourceContainer';
 
 const Routes = () => {
   return (
     <Switch>
       <Route exact path="/">
-        <ResourceContainer/>
+        <About/>
       </Route>
       <Route exact path="/about">
         <About/>
@@ -27,7 +26,7 @@ const Routes = () => {
       <AdminRoute exact path="/admin">
         <AdminContainer/>
       </AdminRoute>
-      <UserRoute exact path="/:userId" component={ResourceContainer}>
+      <UserRoute exact path="/:userId" component={ProfileContainer}>
         {null}
       </UserRoute>
       <Route>

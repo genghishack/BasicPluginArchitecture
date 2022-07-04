@@ -1,12 +1,4 @@
 const local = {
-  mapbox: {
-    accessToken: "pk.eyJ1IjoiZ2VuZ2hpc2hhY2siLCJhIjoiZ2x6WjZhbyJ9.P8at90QQiy0C8W_mc21w6Q",
-    style: "mapbox://styles/genghishack/cjft3tbmb7qyr2sqclts2rz62", // bright
-    username: 'genghishack',
-    keys: {
-      bright: 'cjft3tbmb7qyr2sqclts2rz62'
-    }
-  },
   apiGateway: {
     REGION: 'us-west-2',
     URL: 'https://uyg8w8w7le.execute-api.us-west-2.amazonaws.com/dev'
@@ -20,14 +12,6 @@ const local = {
 };
 
 const dev = {
-  mapbox: {
-    accessToken: "pk.eyJ1IjoiZ2VuZ2hpc2hhY2siLCJhIjoiZ2x6WjZhbyJ9.P8at90QQiy0C8W_mc21w6Q",
-    style: "mapbox://styles/genghishack/cjft3tbmb7qyr2sqclts2rz62", // bright
-    username: 'genghishack',
-    keys: {
-      bright: 'cjft3tbmb7qyr2sqclts2rz62'
-    }
-  },
   apiGateway: {
     REGION: 'us-west-2',
     URL: 'https://uyg8w8w7le.execute-api.us-west-2.amazonaws.com/dev'
@@ -41,14 +25,6 @@ const dev = {
 };
 
 const test = {
-  mapbox: {
-    accessToken: "pk.eyJ1IjoiZ2VuZ2hpc2hhY2siLCJhIjoiZ2x6WjZhbyJ9.P8at90QQiy0C8W_mc21w6Q",
-    style: "mapbox://styles/genghishack/cjft3tbmb7qyr2sqclts2rz62", // bright
-    username: 'genghishack',
-    keys: {
-      bright: 'cjft3tbmb7qyr2sqclts2rz62'
-    }
-  },
   apiGateway: {
     REGION: 'us-west-2',
     URL: 'https://uyg8w8w7le.execute-api.us-west-2.amazonaws.com/dev'
@@ -62,14 +38,6 @@ const test = {
 };
 
 const prod = {
-  mapbox: {
-    accessToken: "pk.eyJ1IjoiZ2VuZ2hpc2hhY2siLCJhIjoiZ2x6WjZhbyJ9.P8at90QQiy0C8W_mc21w6Q",
-    style: "mapbox://styles/genghishack/cjft3tbmb7qyr2sqclts2rz62", // bright
-    username: 'genghishack',
-    keys: {
-      bright: 'cjft3tbmb7qyr2sqclts2rz62'
-    }
-  },
   apiGateway: {
     REGION: 'us-west-2',
     URL: 'https://uyg8w8w7le.execute-api.us-west-2.amazonaws.com/dev'

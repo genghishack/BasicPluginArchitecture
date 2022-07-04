@@ -14,10 +14,6 @@ const MainNav = (props: IMainNav) => {
 
   return (
     <div className="Nav">
-      <NavItem label="Resource Map" pathname="/" />
-      {isAuthenticated ? (
-        <NavItem label="My Resources" pathname={`/${currentUser.id}`} />
-      ) : null}
       <NavItem label="About" pathname="/about" />
     </div>
   )

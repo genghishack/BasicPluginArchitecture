@@ -14,10 +14,6 @@ const AdminMenu = () => {
         variant="link"
         onClick={() => adminPhaseTransition('user')}
       >User</Button>
-      <Button
-        variant="link"
-        onClick={() => adminPhaseTransition('resource')}
-      >Resource</Button>
     </div>
   )
 }

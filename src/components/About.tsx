@@ -3,17 +3,12 @@ import React from 'react';
 const About = () => {
   return (
     <div className="About">
-      <h1>MapApp Template</h1>
+      <h1>Base Plugin Architecture Frontend</h1>
 
-      <p>A set of template repos to be used to build other map-based apps.</p>
+      <p>This is a basic plugin architecture for websites.</p>
 
-      <p>Includes basic functionality like login/logout, about page, and a map
-      to display data.</p>
-
-      <p>Logged-in Admin and Editor users can enter data to display on the map.</p>
-
-      <p>The map is publicly available to non-logged in users.  Logged-in
-      users may have additional functionality.</p>
+      <p>It includes login/logout, user profile, forgot password, user security
+        and an admin user management interface.</p>
     </div>
   )
 }
