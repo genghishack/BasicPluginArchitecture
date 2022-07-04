@@ -1,6 +1,7 @@
 # MapApp FrontEnd
 
-This is a template repo for map-based projects.  
+This is a basic plugin architecture for websites.
 
-initially copied from the "bluezone" project and meant to be extended for other efforts.
+It includes login/logout, user profile, forgot password, user security and an admin user management interface.
 
+Uses AWS Cognito user pools.
