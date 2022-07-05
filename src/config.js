@@ -5,9 +5,9 @@ const local = {
   },
   cognito: {
     REGION: 'us-west-2',
-    USER_POOL_ID: 'us-west-2_tlp3NnoHe',
-    APP_CLIENT_ID: '24jcp63fiqn5ofipbhl1oeehjq',
-    IDENTITY_POOL_ID: 'us-west-2:194691cf-9aa0-473c-b3ea-72fd5e904081'
+    USER_POOL_ID: 'us-west-2_Psp3z5DNp',
+    APP_CLIENT_ID: '72hv2d893565j4ccm9hf0bl9hj',
+    IDENTITY_POOL_ID: 'us-west-2:c2aa6579-1f5e-4aa9-b5b6-214783aa6551'
   }
 };
 
@@ -18,9 +18,9 @@ const dev = {
   },
   cognito: {
     REGION: 'us-west-2',
-    USER_POOL_ID: 'us-west-2_tlp3NnoHe',
-    APP_CLIENT_ID: '24jcp63fiqn5ofipbhl1oeehjq',
-    IDENTITY_POOL_ID: 'us-west-2:194691cf-9aa0-473c-b3ea-72fd5e904081'
+    USER_POOL_ID: 'us-west-2_Psp3z5DNp',
+    APP_CLIENT_ID: '72hv2d893565j4ccm9hf0bl9hj',
+    IDENTITY_POOL_ID: 'us-west-2:c2aa6579-1f5e-4aa9-b5b6-214783aa6551'
   }
 };
 
@@ -31,9 +31,9 @@ const test = {
   },
   cognito: {
     REGION: 'us-west-2',
-    USER_POOL_ID: 'us-west-2_tlp3NnoHe',
-    APP_CLIENT_ID: '24jcp63fiqn5ofipbhl1oeehjq',
-    IDENTITY_POOL_ID: 'us-west-2:194691cf-9aa0-473c-b3ea-72fd5e904081'
+    USER_POOL_ID: 'us-west-2_Psp3z5DNp',
+    APP_CLIENT_ID: '72hv2d893565j4ccm9hf0bl9hj',
+    IDENTITY_POOL_ID: 'us-west-2:c2aa6579-1f5e-4aa9-b5b6-214783aa6551'
   }
 };
 
@@ -44,9 +44,9 @@ const prod = {
   },
   cognito: {
     REGION: 'us-west-2',
-    USER_POOL_ID: 'us-west-2_tlp3NnoHe',
-    APP_CLIENT_ID: '24jcp63fiqn5ofipbhl1oeehjq',
-    IDENTITY_POOL_ID: 'us-west-2:194691cf-9aa0-473c-b3ea-72fd5e904081'
+    USER_POOL_ID: 'us-west-2_Psp3z5DNp',
+    APP_CLIENT_ID: '72hv2d893565j4ccm9hf0bl9hj',
+    IDENTITY_POOL_ID: 'us-west-2:c2aa6579-1f5e-4aa9-b5b6-214783aa6551'
   }
 };
 
